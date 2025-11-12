@@ -49,7 +49,7 @@ def register_user(username, password):
 def authenticate(username, password):
     # Admin credentials: if the entered credentials match these,
     # return True immediately so that admin doesn't need to register.
-    if username == "megha" and password == "megha2110":
+    if username == "ayush" and password == "ayush19":
         return True
 
     users = load_users()
@@ -244,4 +244,5 @@ else:
 
 
     
+
 
