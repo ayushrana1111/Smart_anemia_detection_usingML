@@ -6,6 +6,19 @@ import pickle
 import matplotlib.pyplot as plt
 from PIL import Image
 
+st.title("Hemoglobin Anemia Detection System – By Ayush Rana")
+
+st.sidebar.header("Project Progress")
+st.sidebar.info(
+    "✅ Dataset and model setup done\n"
+    "🔄 Streamlit interface under development\n"
+    "🚀 Next: Testing and deployment"
+)
+
+st.markdown("---")
+st.markdown("**Developed by Ayush Rana | B.Tech CSE | 2025**")
+
+
 USER_FILE = "users.csv"
 
 # Function to hash passwords for security
@@ -231,3 +244,4 @@ else:
 
 
     
+
