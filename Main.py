@@ -6,7 +6,7 @@ import pickle
 import matplotlib.pyplot as plt
 from PIL import Image
 
-st.title("Smart Anemia Detection System Using ML")
+st.title("Smart Anemia Detection System")
 
 st.sidebar.header("Project Progress")
 st.sidebar.info(
@@ -244,6 +244,7 @@ else:
 
 
     
+
 
 
 
