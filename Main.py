@@ -8,12 +8,8 @@ from PIL import Image
 
 st.title("Smart Anemia Detection System")
 
-st.sidebar.header("Project Progress")
-st.sidebar.info(
-    "✅ Dataset and model setup done\n"
-    "🔄 Streamlit interface under development\n"
-    "🚀 Next: Testing and deployment"
-)
+
+
 
 st.markdown("---")
 st.markdown("**Developed by Group 22 (Ashish kumar, Ayush Rana, Afroj Ahmad) | B.Tech CSE | 2025**")
@@ -244,6 +240,7 @@ else:
 
 
     
+
 
 
 
