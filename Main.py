@@ -16,7 +16,7 @@ st.sidebar.info(
 )
 
 st.markdown("---")
-st.markdown("**Developed by Ayush Rana | B.Tech CSE | 2025**")
+st.markdown("**Developed by Group 22 (Ashish kumar, Ayush Rana, Afroj Ahmad) | B.Tech CSE | 2025**")
 
 
 USER_FILE = "users.csv"
@@ -244,5 +244,6 @@ else:
 
 
     
+
 
 
