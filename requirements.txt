@@ -4,3 +4,4 @@ matplotlib
 pillow
 scikit-learn
 pickle-mixin
+fpdf2
